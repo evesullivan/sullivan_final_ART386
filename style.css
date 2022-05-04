@@ -1,8 +1,7 @@
 body{
   background-image: url("https://wallpaper.dog/large/20404796.jpg")
-
-  
 }
+
 h1{
   width: 500px;
   border: 5px solid white;
@@ -63,4 +62,6 @@ p{
   border-radius: 5px;
   text-align: center;
   background-color: black;
+}
+
 }
