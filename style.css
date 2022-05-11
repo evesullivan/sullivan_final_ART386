@@ -65,7 +65,7 @@ h2{
 .projStatement{
   display: block;
   font-size: 20px;
-  width: 500px;
+  width: 50%;
   margin-left: auto;
   margin-right: auto;
   font-family: 'Josefin Sans', sans-serif;
@@ -90,7 +90,7 @@ p{
   font-family: 'Josefin Sans', sans-serif;
   color: white;
   font-size: 20px;
-  width: width/3;
+  width: 50%;
   padding: 20px;
   display: block;
   margin-left: auto;
