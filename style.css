@@ -1,5 +1,8 @@
 body{
   background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2016/11/12/1043618/e52be13fafc8965e37892c6d8811e8c3-700.jpg")
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 h1{
@@ -44,7 +47,7 @@ h1{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: width/2;
+  width: 70%;
   font-family: 'Josefin Sans', sans-serif;
   color: white;
   text-align: center;
