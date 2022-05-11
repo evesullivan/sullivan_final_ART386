@@ -65,6 +65,7 @@ h2{
 .projStatement{
   display: block;
   font-size: 20px;
+  width: width/3;
   margin-left: auto;
   margin-right: auto;
   font-family: 'Josefin Sans', sans-serif;
